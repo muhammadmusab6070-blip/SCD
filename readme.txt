@@ -1,23 +1,23 @@
 🛠️ Software Construction & Development (SCD)
 
-Welcome to my **SCD Course Repository**! This repo contains all the assignments, projects, and hands-on work completed throughout the course. 🚀
+Welcome to my SCD Course Repository! This repo contains all the assignments, projects, and hands-on work completed throughout the course. 🚀
 
 
 📘 About This Course
 
-Software Construction & Development focuses on the **principles, tools, and practices** used to design, build, and maintain high-quality software systems. It bridges the gap between theoretical software engineering and real-world implementation.
+Software Construction & Development focuses on the principles, tools, and practices used to design, build, and maintain high-quality software systems. It bridges the gap between theoretical software engineering and real-world implementation.
 
 
 🎯 What I Will Learn
 
-- 🧱 **Software design principles** — writing clean, maintainable, and scalable code  
-- 🔄 **Version control workflows** using Git & GitHub  
-- ☕ **Object-Oriented Programming (OOP)** concepts in Java  
-- 🧩 **Design patterns** (Singleton, Factory, Observer, etc.)  
-- 🧪 **Unit testing & debugging** techniques  
-- 📦 **Build tools & project structuring** (Maven/Gradle basics)  
-- 🤝 **Collaborative development** practices (branching, pull requests, code reviews)  
-- 🛡️ **Software quality assurance** — code readability, documentation, and standards  
+- 🧱 Software design principles — writing clean, maintainable, and scalable code  
+- 🔄 Version control workflows using Git & GitHub  
+- ☕ Object-Oriented Programming (OOP) concepts in Java  
+- 🧩 Design patterns (Singleton, Factory, Observer, etc.)  
+- 🧪 Unit testing & debugging techniques  
+- 📦 Build tools & project structuring (Maven/Gradle basics)  
+- 🤝 Collaborative development practices (branching, pull requests, code reviews)  
+- 🛡️ Software quality assurance — code readability, documentation, and standards  
 
 💻 What I Will Implement
 
