@@ -10,7 +10,7 @@ public class StudentDataAccess {
 		
 		ArrayList<String []> data = new ArrayList<String []>();	
 		
-		File file = new File( rollNo + ".txt");
+		File file = new File("src/" + rollNo + ".txt");
 		
 		if (!file.exists()) {
 	        return data;
